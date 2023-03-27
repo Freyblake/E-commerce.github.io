@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 2px 12px;
+  color: white;
+  background-color: #2874f0;
+  border: 2px solid rgb(204, 204, 231);
+  cursor: pointer;
+  font-family: "Oswald", sans-serif;
+}
+
+.my-1 {
+  margin: 20px 0;
+}
+
+.my-2 {
+  margin: 3px;
+}
+
+.text-center {
+  text-align: center;
+}
